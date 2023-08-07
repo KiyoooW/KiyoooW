@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @KiyoooW
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KiyoooW/KiyoooW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Be respectful
+- No inappropriate language
+- No spamming
+- No pornographic/adult/other NSFW material
+- No advertisements
+- No offensive names and profile pictures
+- Server Raiding
+- Threats are forbidden
+- Follow the Discord Community Guidelines
+- Do not join voice chat channels without permission of the people already in there
+- Don’t share your personal information
+- Don’t share illegal or pirated content
+- Avoid false or misleading information
+- Follow the channel-specific guidelines
+- No sharing or distributing hacks, cheats, or other unauthorized tools or services
+- No sharing or distributing viruses or malicious software
+- No sharing or distributing illegal drugs or controlled substances
+- No sharing or distributing counterfeit or fraudulent items
+- No sharing or distributing stolen financial or banking information
+- No sharing or distributing unauthorized keys or serial numbers for software or games
+- Respect others’ privacy
+- Do not impersonate other users, staff members, or any other individuals or organizations
+- No excessive self-promotion
+- Keep political and religious discussions civil and respectful
+- Do not intentionally disrupt conversations or create a hostile environment for other users
+- No public shaming or call-outs
+- Do not abuse server bots
+- Keep discussions relevant to the server’s topic
+- Do not excessively use caps or emojis in your messages
+- No sharing or promoting illegal activities
+- No self-destructive behavior or encouragement of self-harm
+- Do not share graphic or disturbing content
+- No promoting or discussing drugs, alcohol, or other substances
+- No soliciting or begging for money, items, or services
+- No blackmail, threats, or harassment
+- No sharing of personal or private messages without consent
+- No excessive use of voice changer software
+- No recruiting for other servers or communities
+- Do not evade bans or mutes
+- Keep content age-appropriate
